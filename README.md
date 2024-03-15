@@ -19,6 +19,8 @@
 
 ## ⭐Infomações do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anieltonjn&theme=blueberry&border_color=30A3DC\&rank_icon=github&locale=pt-br&include_all_commits=true)
+| ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anieltonjn&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anieltonjn&theme=blueberry) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anieltonjn&layout=compact&theme=blueberry&border_color=333232) | 
+| :-: | :-: | :-: |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anieltonjn&layout=donut&theme=blueberry&border_color=30A3DC\&locale=pt-br) 
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anieltonjn&theme=blueberry&utcOffset=-3) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anieltonjn&theme=blueberry)| 
+| :-: | :-: |
