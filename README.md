@@ -17,9 +17,8 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:anieltonjn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/anielton-jos%C3%A9-do-nascimento-a0816921/)
 
-## ⭐Git Status
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anieltonjn&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anieltonjn&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anieltonjn&theme=blueberry) |
-| :-: | :-: | :-: |
+## ⭐Infomações do GitHub
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anieltonjn&theme=blueberry&utcOffset=-3) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anieltonjn&theme=blueberry)| 
-| :-: | :-: |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anieltonjn&theme=blueberry&border_color=30A3DC\&rank_icon=github&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anieltonjn&layout=donut&theme=blueberry&border_color=30A3DC\&locale=pt-br) 
