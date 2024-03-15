@@ -19,6 +19,6 @@
 
 ## ⭐Infomações do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anieltonjn&theme=blueberry&border_color=30A3DC\&rank_icon=github&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anieltonjn&theme=blueberry&border_color=30A3DC\&rank_icon=github&include_all_commits=true&locale=pt-br)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anieltonjn&layout=donut&theme=blueberry&border_color=30A3DC\&locale=pt-br) 
