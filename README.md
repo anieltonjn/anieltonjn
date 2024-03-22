@@ -5,12 +5,15 @@
 
 ## - Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Shell](https://img.shields.io/badge/Shell-000?style=for-the-badge&logo=shell&logoColor=green)](https://www.shellscript.sh/)
+[![Pyton](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://docs.python.org/pt-br)
+[![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![HCL](https://img.shields.io/badge/HCL-000?style=for-the-badge&logo=hcl)](https://github.com/hashicorp/hcl)
+[![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=purple)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/getting-started/)
 
 ## - Redes Sociais:
 
